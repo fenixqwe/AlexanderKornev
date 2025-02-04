@@ -30,8 +30,8 @@
 </p>
 
 
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fenixqwe&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_title=true&card_width=800#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fenixqwe&theme=github_dark&border_color=21262D&show_icons=true&show=reviews,discussions_started,discussions_answered&rank_icon=github&hide_title=true&card_width=800#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+___
 
-[![GitHub streak-stats-Light](https://streak-stats.demolab.com?user=fenixqwe&card_width=800#gh-light-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only)
-[![GitHub streak-stats-Dark](https://streak-stats.demolab.com?user=fenixqwe&theme=github-dark-blue&border=21262D&stroke=21262D&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&card_width=800#gh-dark-mode-only)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderLukash&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=dark&card_width=295)](https://github.com/anuraghazra/github-readme-stats)
+
+---
